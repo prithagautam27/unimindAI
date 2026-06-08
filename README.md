@@ -91,7 +91,7 @@ npm run dev
 
 ### Chat Interaction
 
-![Chat Interface](frontend/screenshots/chat.png)
+![Chat Interface](frontend/screenshots/chatdemo.png)
 
 ## What I Learned
 
