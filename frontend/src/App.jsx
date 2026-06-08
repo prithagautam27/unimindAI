@@ -41,11 +41,12 @@ function App() {
       )
 
       const response = await axios.post(
-       ' https://unimindai.onrender.com/api/chat,'
-        {
-          message: userMessage.text
-        }
-      )
+  'https://unimindai.onrender.com/api/chat',
+  {
+    message: userMessage.text
+  }
+)
+    
 
       const botMessage = {
         text: response.data.response,
