@@ -83,6 +83,15 @@ cd frontend
 npm install
 npm run dev
 ```
+## Application Preview
+
+### Home Screen
+
+![Home Screen](frontend/screenshots/home.png)
+
+### Chat Interaction
+
+![Chat Interface](frontend/screenshots/chat.png)
 
 ## What I Learned
 
