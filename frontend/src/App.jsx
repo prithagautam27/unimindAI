@@ -41,7 +41,7 @@ function App() {
       )
 
       const response = await axios.post(
-        'http://127.0.0.1:8000/api/chat',
+       ' https://unimindai.onrender.com/api/chat,'
         {
           message: userMessage.text
         }
