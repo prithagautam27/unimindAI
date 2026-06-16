@@ -4,6 +4,10 @@ UniMind AI is a full-stack AI-powered university assistance platform that helps 
 
 The application combines a React frontend, FastAPI backend, SQLite database, and Gemini AI to deliver a conversational support experience while storing interactions for future analytics and reporting.
 
+### Live Demo
+Frontend   : https://unimind-ai-gray.vercel.app/
+Backend API:https://unimindai.onrender.com
+
 ## Key Features
 
 ✅ AI-powered chatbot using Google Gemini AI
@@ -83,6 +87,7 @@ cd frontend
 npm install
 npm run dev
 ```
+
 ## Application Preview
 
 ### Home Screen
